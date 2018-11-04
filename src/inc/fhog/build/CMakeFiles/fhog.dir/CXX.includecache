@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/staple-cpp/fhog/gradientMex.cpp
+wrappers.hpp
+/home/ubuntu/staple-cpp/fhog/wrappers.hpp
+math.h
+-
+string.h
+/home/ubuntu/staple-cpp/fhog/string.h
+sse.hpp
+/home/ubuntu/staple-cpp/fhog/sse.hpp
+
+/home/ubuntu/staple-cpp/fhog/sse.hpp
+emmintrin.h
+-
+
+/home/ubuntu/staple-cpp/fhog/wrappers.hpp
+mex.h
+/home/ubuntu/staple-cpp/fhog/mex.h
+stdlib.h
+-
+
